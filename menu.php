@@ -213,29 +213,7 @@
 			</div>
 		</div>
 
-		<div class="col-md-11 mx-auto reservation">
-    		<div class="row">
-    			<div class="col-md-4 img-left wow animated fadeInLeft">
-    				<img src="img/r_left.jpg" alt="img" class="img-fluid">
-    			</div>
-    			<div class="col-md-4 booking text-center">
-    				<h3>Reservation</h3>
-    				<h2>Book your table</h2>
-    				<hr class="hr9">
-    				<form method="POST" action="" role="form">
-    					<input type="text" name="name" placeholder="&#xf007; Your Name">
-    					<input type="email" name="email" placeholder="&#xf0e0; Your Email">
-    					<input type="text" name="date" placeholder="&#xf784; Date (dd-mm-yyyy)">
-    					<input type="text" name="time" placeholder="&#xf017; Time (hh-mm-ss)">
-    					<input type="number" name="people" placeholder="&#xf183; No. of people">
-    					<button class="btn btn-danger">FIND A TABLE</button>
-    				</form>
-    			</div>
-    			<div class="col-md-4 img-right wow animated fadeInRight">
-    				<img src="img/r_right.jpg" alt="img" class="img-fluid">
-    			</div>
-    		</div>
-    	</div>
+		
 
 		<div class="col-md-12 footer">
     		<div class="row">
